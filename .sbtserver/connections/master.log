@@ -1,0 +1,7 @@
+New log file opened at Sat Aug 08 23:17:27 CDT 2015 by 7756@wpg02333
+Taking next connection to: 63281
+New client attempting to connect on port: 63282-63281
+  Address = /192.168.98.1:63281
+This client on port 63282 has uuid 2608db55-fcb0-47bd-9fe8-1a76deca1686 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-2608db55-fcb0-47bd-9fe8-1a76deca1686
+Taking next connection to: 63281
